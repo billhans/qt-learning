@@ -1,0 +1,1 @@
+[resource code](https://gitbookcpp.llfc.club/sections/cpp/section9/qt01.html)
